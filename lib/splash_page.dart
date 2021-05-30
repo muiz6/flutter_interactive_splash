@@ -19,7 +19,7 @@ class _SplashPageState extends State<SplashPage> {
       child: Center(
         child: Image.asset(
           'assets/images/logo_flutter.png',
-          height: 168.94,
+          height: 168.94, // calculated height for my case
         ),
       ),
     );
