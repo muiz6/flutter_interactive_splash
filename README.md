@@ -2,15 +2,6 @@
 
 Example of creating an interactive splash in flutter.
 
-## Getting Started
+The relevant article can be found on [DEV](https://dev.to/muiz6/create-an-interactive-splash-screen-in-flutter-1d40).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](https://res.cloudinary.com/practicaldev/image/fetch/s--sprAaWEi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nipaoy8pwr5ase4qq7q9.jpg)
